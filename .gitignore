@@ -35,4 +35,6 @@ inc/
 /*.zip
 
 # My
-./.idea/
+.idea/
+.idea
+.idea/*
